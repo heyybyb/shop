@@ -1,0 +1,2 @@
+{"level":"info","ts":1726502611.0619383,"caller":"zap_test/main.go:20","msg":"failed to fetch URL","url":"127.0.0.1","attempt":3,"backoff":1}
+{"level":"info","ts":1726502611.0619383,"caller":"zap_test/main.go:26","msg":"Failed to fetch URL: 127.0.0.1"}
